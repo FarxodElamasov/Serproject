@@ -1,0 +1,45 @@
+.asosiy_rasm_back {
+    background: url("../Img/Rectangle 47.png");
+    height: 590px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title_h1 {
+    font-family: 'Jura', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 41px;
+    line-height: 48px;
+    color: #FFFFFF;
+    margin-top: 87px;
+    justify-content: center;
+}
+
+.title_p1 {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 23px;
+    margin-top: 24px;
+    color: #FFFFFF;
+}
+
+.marshl {
+    margin-left: 20px;
+}
+
+.btn_1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 23px;
+    border: 2px solid #C80000;
+    border-radius: 27px;
+    color: #FFFFFF;
+    padding: 16px 34px;
+    background: rgba(0, 0, 0, 0.4);
+    margin-top: 39px;
+}
